@@ -1,2 +1,2 @@
 # mlm-nlp
-deep learning in nlp
+Learnings in implementing Deep Learning for NLP
